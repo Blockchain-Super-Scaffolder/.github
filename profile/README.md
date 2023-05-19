@@ -1,5 +1,5 @@
-# Blockchain Super Scaffolder
+# Super Blockchain Scaffolder
 
-This is the home of the Blockchain Super Scaffolder codebase(s)!
+This is the home of the Super Blockchain Scaffolder codebase(s)!
 
-The Blockchain Super Scaffolder is a free and open-source command line tool for scaffolding blockchain projects!
+The Super Blockchain Scaffolder is a free and open-source command line tool for scaffolding blockchain projects!
